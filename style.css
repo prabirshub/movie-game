@@ -4,6 +4,10 @@
   margin: auto;
 }
 
+.author-link {
+  font-size: 14px;
+}
+
 figure.image {
   display: flex;
   justify-content: center;
